@@ -173,3 +173,19 @@ function score(){
     }
 }
 
+var dw=0;
+var d=1;
+function dead(){
+    d=d+1;
+    if(d==11){
+        d=10;
+        img.style.marginTop="360px";
+        document.getElementById("end").style.visibility="visible";
+        document.getElementById("endscore").innerHTML=u;
+    }
+    img.src="Dead ("+d+").png";
+}
+
+function re(){
+    location.reload();
+}
