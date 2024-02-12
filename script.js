@@ -186,5 +186,6 @@ function dead(){
     img.src="Dead ("+d+").png";
 }
 
-
+function re(){
+    location.reload();
 }
