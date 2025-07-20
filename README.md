@@ -104,4 +104,4 @@ Feel free to fork this project and submit pull requests for improvements!
 
 ---
 
-**Enjoy playing The Red Hat Boy! 🏃‍♂️🔥**
+**Enjoy playing The Red Hat Boy Game. 🎮🏃‍♂️🔥**
