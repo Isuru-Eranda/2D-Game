@@ -15,8 +15,8 @@ A fun and engaging 2D side-scrolling runner game built with HTML5, CSS3, and Jav
 ## 🕹️ How to Play
 
 ### Controls
-- **ENTER** : Start the game
-- **SPACEBAR** : Jump over obstacles
+- **ENTER**: Start the game
+- **SPACEBAR**: Jump over obstacles
 
 ### Objective
 - Keep the Red Hat Boy alive by jumping over flames
@@ -101,6 +101,7 @@ Potential improvements for future versions:
 ## 🤝 Contributing
 
 Feel free to fork this project and submit pull requests for improvements!
+
 ---
 
 **Enjoy playing The Red Hat Boy! 🏃‍♂️🔥**
