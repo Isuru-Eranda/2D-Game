@@ -101,11 +101,6 @@ Potential improvements for future versions:
 ## 🤝 Contributing
 
 Feel free to fork this project and submit pull requests for improvements!
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 **Enjoy playing The Red Hat Boy! 🏃‍♂️🔥**
